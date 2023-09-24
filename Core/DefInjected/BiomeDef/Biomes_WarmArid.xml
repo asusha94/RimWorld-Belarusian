@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: arid shrubland -->
-  <AridShrubland.label>TODO</AridShrubland.label>
+  <AridShrubland.label>саванна</AridShrubland.label> <!-- Трапічны стэп з рэдкімі дрэвамі і хмызнякамі. -->
   <!-- EN: A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find. -->
-  <AridShrubland.description>TODO</AridShrubland.description>
+  <AridShrubland.description>Сухая мясцовасць, але не дастаткова, каб стаць сапраўднай пустыняй. Адкрытыя стэпы з травой і хмызнякамі, якія чаргуюцца з раскіданым гаямі дрэў. Расліны тут трывалыя, таксама тут жыве ўмеркаваная колькасць жывёл, але знайсці ворную зямлю цяжка.</AridShrubland.description>
   
   <!-- EN: desert -->
-  <Desert.label>TODO</Desert.label>
+  <Desert.label>пустыня</Desert.label>
   <!-- EN: A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
-  <Desert.description>TODO</Desert.description>
+  <Desert.description>Дужа сухі абшар, які амаль не утрымлівае жыцця. Тут ёсць вельмі мала ворнай зямлі, а жывёльны свет надта рэдкі. Пустыні могуць быць спякотнымі або зусім сцюдзёнымі. </Desert.description>
   
   <!-- EN: extreme desert -->
-  <ExtremeDesert.label>TODO</ExtremeDesert.label>
+  <ExtremeDesert.label>звышсухая пустыня</ExtremeDesert.label>
   <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
-  <ExtremeDesert.description>TODO</ExtremeDesert.description>
+  <ExtremeDesert.description>Надзвычайна спякотны, сухі абшар, пазбаўлены ледзь не ўсяго жыцця. Высушлівая спёка і амаль поўная адсутнасць тут ворнай зямлі вельмі ўскладняе выжыванне.</ExtremeDesert.description>
   
 </LanguageData>
